@@ -1,0 +1,181 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Rustic Plastic Bike",
+      "description": "Dolores voluptas voluptatem est animi. Natus et aspernatur fugit qui.",
+      "price": "508.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "quantity": 87473
+    },
+    {
+      "id": 2,
+      "name": "Tasty Plastic Sausages",
+      "description": "Eligendi voluptas quibusdam. Et magnam enim. Ex et ut. Enim modi nobis iusto cum rerum ab. Nulla ullam atque numquam ea quasi ipsam. Atque quis eum veniam quaerat accusamus recusandae.",
+      "price": "902.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "quantity": 86578
+    },
+    {
+      "id": 3,
+      "name": "Handmade Metal Hat",
+      "description": "Molestiae beatae nam rerum. Delectus veniam consequatur natus aut unde omnis natus atque molestiae. Cum dolor ipsa rem voluptas illo rem dolore eum. Id officia nesciunt delectus ut impedit earum magni. Accusantium non sunt mollitia et. At culpa et et eum amet.",
+      "price": "732.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "quantity": 47111
+    },
+    {
+      "id": 4,
+      "name": "Practical Steel Cheese",
+      "description": "Qui non hic aliquid occaecati itaque neque. Vitae at error incidunt et dolorem.",
+      "price": "746.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "quantity": 7099
+    },
+    {
+      "id": 5,
+      "name": "Practical Soft Cheese",
+      "description": "Sit in excepturi cupiditate officia cumque reiciendis sed reiciendis porro. Minima qui earum assumenda amet numquam. Delectus ut temporibus dolorum enim dolorem.",
+      "price": "804.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "quantity": 10072
+    },
+    {
+      "id": 6,
+      "name": "Fantastic Steel Hat",
+      "description": "Enim aliquam blanditiis unde quaerat qui doloremque. Ut commodi vitae est qui aut ut.",
+      "price": "581.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "quantity": 8661
+    },
+    {
+      "id": 7,
+      "name": "Gorgeous Granite Pizza",
+      "description": "Ea ut omnis accusamus aut. Ut quibusdam neque exercitationem quis consequatur. Quod vitae doloremque quia excepturi reiciendis quos et. Eveniet mollitia qui velit earum voluptatem laudantium in fugit. Ratione sunt in asperiores vero tenetur est iure incidunt. Quam debitis exercitationem quia eius voluptatibus molestiae eligendi.",
+      "price": "922.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "quantity": 14419
+    },
+    {
+      "id": 8,
+      "name": "Handcrafted Fresh Cheese",
+      "description": "Voluptatem aut eligendi placeat officia enim. Quaerat veniam cum nemo. Vel et mollitia rerum non qui hic. Esse ut incidunt ad rem accusamus et minus veritatis. Doloremque dolorem iure ipsum cum aut in laudantium. Rem aut ad.",
+      "price": "81.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "quantity": 4668
+    },
+    {
+      "id": 9,
+      "name": "Practical Granite Mouse",
+      "description": "Modi earum aut et quas. Vel et omnis totam aperiam repellat ipsa. Illo accusantium velit tempora omnis porro vel minus. Nulla quo quibusdam ut. Et adipisci et quia dolore fugit animi. Perferendis mollitia est dignissimos voluptatem quo.",
+      "price": "655.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "quantity": 75230
+    },
+    {
+      "id": 10,
+      "name": "Handcrafted Steel Bike",
+      "description": "Ab ex architecto veniam repudiandae. Corporis placeat pariatur magni magni. Assumenda provident repudiandae harum voluptas quia.",
+      "price": "163.00",
+      "imageUrl": "https://source.unsplash.com/1600x900/?product",
+      "quantity": 44019
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "username": "admin",
+      "password": "123456",
+      "role": "ADMIN",
+      "token": "token1"
+    },
+    {
+      "id": 2,
+      "name": "user2",
+      "username": "User 2",
+      "password": "123456",
+      "role": "CUSTOMER",
+      "token": "token2"
+    },
+    {
+      "id": 3,
+      "name": "user3",
+      "username": "User 3",
+      "password": "123456",
+      "role": "CUSTOMER",
+      "token": "token3"
+    },
+    {
+      "id": 4,
+      "name": "user4",
+      "username": "User 4",
+      "password": "123456",
+      "role": "CUSTOMER",
+      "token": "token4"
+    },
+    {
+      "id": 5,
+      "name": "user5",
+      "username": "User 5",
+      "password": "123456",
+      "role": "CUSTOMER",
+      "token": "token5"
+    },
+    {
+      "id": 6,
+      "name": "user6",
+      "username": "User 6",
+      "password": "123456",
+      "role": "CUSTOMER",
+      "token": "token6"
+    },
+    {
+      "id": 7,
+      "name": "user7",
+      "username": "User 7",
+      "password": "123456",
+      "role": "CUSTOMER",
+      "token": "token7"
+    },
+    {
+      "id": 8,
+      "name": "user8",
+      "username": "User 8",
+      "password": "123456",
+      "role": "CUSTOMER",
+      "token": "token8"
+    },
+    {
+      "id": 9,
+      "name": "user9",
+      "username": "User 9",
+      "password": "123456",
+      "role": "CUSTOMER",
+      "token": "token9"
+    },
+    {
+      "id": 10,
+      "name": "user10",
+      "username": "User 10",
+      "password": "123456",
+      "role": "CUSTOMER",
+      "token": "token10"
+    },
+    {
+      "id": 11,
+      "name": "user11",
+      "username": "User 11",
+      "password": "123456",
+      "role": "CUSTOMER",
+      "token": "token11"
+    },
+    {
+      "username": "admin2",
+      "password": "123456",
+      "name": "Admin2",
+      "role": "STUDENT",
+      "id": 12
+    }
+  ]
+}
