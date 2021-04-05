@@ -1,6 +1,6 @@
 var faker = require('faker');
 
-var database = { products: [], users: []};
+var database = { products: [], users: [], orders: []};
 
 database.users.push({
     id: 1,
@@ -22,11 +22,20 @@ for (var i = 1; i<= 10; i++) {
     });
     database.users.push({
         id: i + 1,
-        name: "user" + (i + 1),
-        username: "User " + (i + 1),
+        username: "user" + (i + 1),
+        name: "User " + (i + 1),
         password: "123456",
         role: "CUSTOMER",
-        token: "token" + (i + 1)
+        token: "token" + (i + 1),
+        email: "user" + (i + 1) + "@gmail.com",
+        phone: "012345678" + i,
+        address: "address" + i
+    });
+    database.orders.push({
+        id: i + 1,
+        userId: (i + 1),
+        productId: i,
+        quantity: i + 2
     });
 }
 

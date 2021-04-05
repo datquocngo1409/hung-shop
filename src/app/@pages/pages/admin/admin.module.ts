@@ -17,10 +17,13 @@ import {FlexModule} from '@angular/flex-layout';
 import {MatDividerModule} from '@angular/material/divider';
 import {ReactiveFormsModule} from '@angular/forms';
 import {MatInputModule} from '@angular/material/input';
-
+import { AdminProductListComponent } from './product/admin-product-list/admin-product-list.component';
+import { AdminProductDetailComponent } from './product/admin-product-detail/admin-product-detail.component';
+import { AdminOrderListComponent } from './order/admin-order-list/admin-order-list.component';
+import { AdminOrderDetailComponent } from './order/admin-order-detail/admin-order-detail.component';
 
 @NgModule({
-  declarations: [AdminUserListComponent, AdminUserDetailComponent],
+  declarations: [AdminUserListComponent, AdminUserDetailComponent, AdminProductListComponent, AdminProductDetailComponent, AdminOrderListComponent, AdminOrderDetailComponent],
     imports: [
         CommonModule,
         AdminRoutingModule,

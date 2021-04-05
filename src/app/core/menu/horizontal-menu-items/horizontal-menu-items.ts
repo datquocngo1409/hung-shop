@@ -26,7 +26,7 @@ export class HorizontalMenuItems {
             icon: '',
             tutorial: 'stepHome',
             children: [
-                {state: '', name: 'NAVBAR.Home', type: 'link'},
+                {state: 'user/home', name: 'NAVBAR.Home', type: 'link'},
                 // {state: 'core/account', name: 'NAVBAR.Account', type: 'link'},
                 // {state: 'core/setting', name: 'NAVBAR.Setting', type: 'link'}
             ]
